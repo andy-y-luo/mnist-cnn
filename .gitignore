@@ -1,0 +1,7 @@
+
+
+# Ignore the python virtual environment
+
+mnist-cnn-env/*
+
+__pycache__/*
